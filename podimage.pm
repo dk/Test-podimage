@@ -6,7 +6,7 @@ our $VERSION = 0.05;
 
 =head1 NAME
 
-Testing how CPAN and METACPAN display images in pod.
+Test::podimage - Testing how CPAN and METACPAN display images in pod.
 
 =head1 SYNOPSIS
 
